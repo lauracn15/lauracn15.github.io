@@ -1,3 +1,4 @@
 body{
-    background: var(--red);
+    position: relative;
+    background: radial-gradient( #f35cd2, #5d69f0);
 }
