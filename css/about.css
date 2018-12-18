@@ -1,7 +1,7 @@
 #about{ 
     position: relative;
     display: block;
-    background-color: #2016b1;
+    background: radial-gradient( #ee87d8, #191c41);
     margin: 1.5em  3.0em 1.5em;
     padding: 2em 0.5em 2.0em;
    
@@ -26,4 +26,9 @@ h1{
     font-family: Nunito;
     color: rgba(255,255,255, 0.5);
    
+}
+.img{
+    float: right;
+    border-radius: 60%;
+    
 }

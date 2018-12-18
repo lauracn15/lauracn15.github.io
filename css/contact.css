@@ -11,7 +11,8 @@ h2{
 }
 
 .contactContainer{
-    background: -webkit-linear-gradient(#3429cf, rgba(238, 79, 198));
+    
+    background: -webkit-linear-gradient(#191c41, rgba(238, 79, 198));
     width: 100%;
     padding: 10rem ;
     
