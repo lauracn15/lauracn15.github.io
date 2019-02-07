@@ -6,6 +6,7 @@ a{
 img{
     display: inline block;
     border-radius: 5%;
+    
 }
 .row {
     display: flex;
