@@ -14,14 +14,15 @@
     
     background-attachment: scroll;
     background-size: cover;
+    background-repeat: no-repeat;
   }
   
   .masthead h1 {
-    font-family: 'Varela Round';
+    font-family: 'Open Sans', sans-serif;
     font-size: 4rem;
     line-height: 4rem;
     letter-spacing: 0.8rem;
-    background: -webkit-linear-gradient(rgba(175, 3, 132, 0.99), rgb(41, 0, 35));
+    background: -webkit-linear-gradient(rgba(131, 0, 98, 0.99), rgb(41, 0, 35));
     -webkit-text-fill-color: transparent;
     -webkit-background-clip: text;
   
@@ -38,7 +39,7 @@
 }
   
 body {
-  font-family: 'Nunito';
+  font-family: 'Open Sans', sans-serif;
   letter-spacing: 0.0625em;
 }
   

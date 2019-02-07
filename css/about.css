@@ -1,7 +1,7 @@
 #about{ 
     position: relative;
     display: block;
-    background: radial-gradient( #ee87d8, #191c41);
+    background: radial-gradient( #ffc6f3b0, #8b004544);
     margin: 1.5em  3.0em 1.5em;
     padding: 2em 0.5em 2.0em;
    
@@ -10,12 +10,11 @@
 }
 p{
     font-size: 1.2em;
-    font-family: Nunito;
-    color: rgba(255, 255, 255, 0.5);
+    font-family: 'Open Sans', sans-serif;
+    color: rgba(255, 255, 255, 0.8);
     text-align: center;
 }
 .img1{
-    width: 200px;
     height: auto;
     float: left;
     margin: .75em 1em 0;
@@ -23,12 +22,13 @@ p{
 }
 h1{
     font-size: 32px; 
-    font-family: Nunito;
-    color: rgba(255,255,255, 0.5);
+    font-family: 'Open Sans', sans-serif;
+    color: rgba(255,255,255, 0.8);
    
 }
 .img{
     float: right;
-    border-radius: 60%;
+    border-radius: 30%;
+    height: auto;
     
 }
