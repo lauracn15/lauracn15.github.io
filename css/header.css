@@ -9,7 +9,7 @@
     padding: 15rem 0;
     
     background: -webkit-gradient(linear, left top, left bottom, from(rgba(248, 152, 224, 0.99)), to rgba(71, 1, 62, 0.589));
-    background: linear-gradient(to bottom, rgba(248, 2, 187, 0.1) 0%, #191c41 100%);
+    
     background-position: center;
     
     background-attachment: scroll;
@@ -21,7 +21,7 @@
     font-size: 4rem;
     line-height: 4rem;
     letter-spacing: 0.8rem;
-    background: -webkit-linear-gradient(rgba(248, 152, 224, 0.99), rgba(71, 1, 62, 0.589));
+    background: -webkit-linear-gradient(rgba(175, 3, 132, 0.99), rgb(41, 0, 35));
     -webkit-text-fill-color: transparent;
     -webkit-background-clip: text;
   
