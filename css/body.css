@@ -1,4 +1,11 @@
 body{
-    position: relative;
     background: radial-gradient( #ee87d8, #44273e);
+  
+}
+.img {
+    background-image: url("Img/ink.jpg");
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
 }
